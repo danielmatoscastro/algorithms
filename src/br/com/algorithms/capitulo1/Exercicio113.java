@@ -3,6 +3,9 @@ package br.com.algorithms.capitulo1;
 import edu.princeton.cs.introcs.StdIn;
 import edu.princeton.cs.introcs.StdOut;
 
+/**
+ * Classe com métodos para a resolução do exercício 1.1.3
+ * */
 public class Exercicio113 {
 	
 	public static void main(String[] args) {
